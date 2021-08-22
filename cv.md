@@ -12,11 +12,11 @@
 * JavaScript
 * VueJs(beginner)
 
-### Briefly About Myself:
+### Experience:
 * warehouse operator
 * system administrator
 * service engineer (gadget repair)
-* website administrator
+* website administrator/content manager
 * school teacher of computer science
 * advertising manager
 * technical specialist (maintenance of computers and networks)
