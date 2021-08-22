@@ -23,6 +23,16 @@
 
 ### Code example:
 like to solve learning problems on [CodeWars](https://www.codewars.com/users/pavlogrechka)
+
+  ```
+  function mygcd(x, y){
+  for ( let i = Math.max(x, y); i > 0; i-- ){
+    if ( x % i === 0 && y % i === 0){
+      return i
+    }
+  }
+}
+```
 ### Courses:
 
 * JavaScript - learnjavascript.ru (in progress)
