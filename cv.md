@@ -3,8 +3,8 @@
 
 ### Contacts
 * email
-* fb
-* link
+* [Facebook](https://www.facebook.com/pavlogrechka/)
+* [LinkedIn](https://www.linkedin.com/in/pavlo-hrechka-6ba9a2174/)
 ### Skills and Proficiency:
 * HTML
 * CSS
