@@ -31,7 +31,7 @@ I first got acquainted with web development about 10 years ago. Maintained the o
 * technical specialist (maintenance of computers and networks)
 
 ### Code example:
-[Pandemia](https://www.codewars.com/kata/5e2596a9ad937f002e510435/javascript)
+![Pandemia](https://www.codewars.com/kata/5e2596a9ad937f002e510435/javascript)
 ```
 function infected(s) {
   let total = 0;
