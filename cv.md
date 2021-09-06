@@ -19,6 +19,7 @@ I first got acquainted with web development about 10 years ago. Maintained the o
 * JavaScript
 * VueJs(beginner)  
 
+
 ### Experience:
 * RS School Front-end 2021 Q3 stage#1 (in progress)
 * warehouse operator
@@ -51,6 +52,8 @@ function infected(s) {
   return (100 * (+infected / +total));
 }
 ```
+
+[https://my-learning.w3schools.com/](./w3schools.jpg)
 
 ### Languages:
 * English - Indermediate/Upper-intermediate
