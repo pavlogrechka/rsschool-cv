@@ -6,13 +6,21 @@
 * [Facebook](https://www.facebook.com/pavlogrechka/)
 * [LinkedIn](https://www.linkedin.com/in/pavlo-hrechka-6ba9a2174/)
 
-### Skills and Proficiency:
+### About myself
+My goal is to become a front-end developer.
+Half a year ago I quit my job and took up self-study in web development.  
+I have over 15 years of working experience in various fields.  
+I first got acquainted with web development about 10 years ago. Maintained the old site, which was gradually transferred to CMS by Drupal.  
+
+
+### Skills:
 * HTML
-* CSS
+* CSS (Sass)
 * JavaScript
-* VueJs(beginner)
+* VueJs(beginner)  
 
 ### Experience:
+* RS School Front-end 2021 Q3 stage#1 (in progress)
 * warehouse operator
 * system administrator
 * service engineer (gadget repair)
@@ -22,25 +30,28 @@
 * technical specialist (maintenance of computers and networks)
 
 ### Code example:
-I like to solve learning problems on [CodeWars](https://www.codewars.com/users/pavlogrechka) like that.
-
-Find the greatest common divisor of two positive integers. The integers can be large, so you need to find a clever solution.
-
-The inputs x and y are always greater or equal to 1, so the greatest common divisor will always be an integer that is also greater or equal to 1.
-
-  ```
-  function mygcd(x, y){
-  for ( let i = Math.max(x, y); i > 0; i-- ){
-    if ( x % i === 0 && y % i === 0){
-      return i
+[Pandemia](https://www.codewars.com/kata/5e2596a9ad937f002e510435/javascript)
+```
+function infected(s) {
+  let total = 0;
+  let infected = 0;
+  const arr = s.split('X');
+  arr.forEach(element => {
+    if (element) {
+      let block = element.split('');
+      if (block.includes && block.includes('1')) {
+        infected += block.length;
+      }
+      total += block.length;
     }
+  });
+  if (total === 0 || infected === 0) {
+    return 0;
   }
+  return (100 * (+infected / +total));
 }
 ```
-### Courses:
 
-* JavaScript - learnjavascript.ru (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ### Languages:
 * English - Indermediate/Upper-intermediate
 * Ukrainian - Native
