@@ -53,7 +53,7 @@ function infected(s) {
 }
 ```
 
-[https://my-learning.w3schools.com/](./w3schools.jpg)
+[https://my-learning.w3schools.com/](https://github.com/pavlogrechka/rsschool-cv/blob/gh-pages/w3school.jpg)
 
 ### Languages:
 * English - Indermediate/Upper-intermediate
